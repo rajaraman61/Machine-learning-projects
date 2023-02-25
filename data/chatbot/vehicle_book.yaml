@@ -1,0 +1,18 @@
+# Intents
+intent: vehicleBook
+utterances: # Utteraces
+  - I need to buy a [entity] car
+  - please book me [entity] car?
+  - Order me a nice [entity] car?
+
+# Entities
+entity: 
+  - audi
+  - bmw
+  - toyota
+  - suzuki
+  - maruti
+  - ferrari
+  - santro
+  - renault
+

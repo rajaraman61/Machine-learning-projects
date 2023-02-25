@@ -1,0 +1,20 @@
+# Intents
+intent: vehicleQuery
+utterances: # Utteraces
+  - I need a [entity]
+  - Can you show me the [entity] car?
+  - Do you have any [entity]?
+  - Please recommend some [entity] cars?
+  - Could you display some [entity] cars?
+
+# Entities
+entity: 
+  - audi
+  - bmw
+  - toyota
+  - suzuki
+  - maruti
+  - ferrari
+  - santro
+  - renault
+

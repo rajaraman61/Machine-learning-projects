@@ -1,0 +1,65 @@
+utterances,intents
+I need a audi,vehicleQuery
+Can you show me the audi car?,vehicleQuery
+Do you have any audi?,vehicleQuery
+Please recommend some audi cars?,vehicleQuery
+Could you display some audi cars?,vehicleQuery
+I need a bmw,vehicleQuery
+Can you show me the bmw car?,vehicleQuery
+Do you have any bmw?,vehicleQuery
+Please recommend some bmw cars?,vehicleQuery
+Could you display some bmw cars?,vehicleQuery
+I need a toyota,vehicleQuery
+Can you show me the toyota car?,vehicleQuery
+Do you have any toyota?,vehicleQuery
+Please recommend some toyota cars?,vehicleQuery
+Could you display some toyota cars?,vehicleQuery
+I need a suzuki,vehicleQuery
+Can you show me the suzuki car?,vehicleQuery
+Do you have any suzuki?,vehicleQuery
+Please recommend some suzuki cars?,vehicleQuery
+Could you display some suzuki cars?,vehicleQuery
+I need a maruti,vehicleQuery
+Can you show me the maruti car?,vehicleQuery
+Do you have any maruti?,vehicleQuery
+Please recommend some maruti cars?,vehicleQuery
+Could you display some maruti cars?,vehicleQuery
+I need a ferrari,vehicleQuery
+Can you show me the ferrari car?,vehicleQuery
+Do you have any ferrari?,vehicleQuery
+Please recommend some ferrari cars?,vehicleQuery
+Could you display some ferrari cars?,vehicleQuery
+I need a santro,vehicleQuery
+Can you show me the santro car?,vehicleQuery
+Do you have any santro?,vehicleQuery
+Please recommend some santro cars?,vehicleQuery
+Could you display some santro cars?,vehicleQuery
+I need a renault,vehicleQuery
+Can you show me the renault car?,vehicleQuery
+Do you have any renault?,vehicleQuery
+Please recommend some renault cars?,vehicleQuery
+Could you display some renault cars?,vehicleQuery
+I need to buy a audi car,vehicleBook
+please book me audi car?,vehicleBook
+Order me a nice audi car?,vehicleBook
+I need to buy a bmw car,vehicleBook
+please book me bmw car?,vehicleBook
+Order me a nice bmw car?,vehicleBook
+I need to buy a toyota car,vehicleBook
+please book me toyota car?,vehicleBook
+Order me a nice toyota car?,vehicleBook
+I need to buy a suzuki car,vehicleBook
+please book me suzuki car?,vehicleBook
+Order me a nice suzuki car?,vehicleBook
+I need to buy a maruti car,vehicleBook
+please book me maruti car?,vehicleBook
+Order me a nice maruti car?,vehicleBook
+I need to buy a ferrari car,vehicleBook
+please book me ferrari car?,vehicleBook
+Order me a nice ferrari car?,vehicleBook
+I need to buy a santro car,vehicleBook
+please book me santro car?,vehicleBook
+Order me a nice santro car?,vehicleBook
+I need to buy a renault car,vehicleBook
+please book me renault car?,vehicleBook
+Order me a nice renault car?,vehicleBook
