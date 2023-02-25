@@ -9,11 +9,11 @@ def main():
     dataset_book = data_processing.load_data('data/chatbot/vehicle_book.yaml')
 
     result_from_load = data_processing.process_data_from_yaml(dataset_query, dataset_book)
+    
     data = {
      "utterances" : result_from_load[0],
      "intents": result_from_load[1]
     }
-    
     
     dataset = pd.DataFrame(data)
     dataset.to_csv('data/chatbot/vehicle.csv', index=False)
